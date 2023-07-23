@@ -1,0 +1,16 @@
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\bin\Debug\Database1.mdf
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\bin\Debug\Database1_log.ldf
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\obj\Debug\Games.vbproj.AssemblyReference.cache
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\obj\Debug\Games.vbproj.SuggestedBindingRedirects.cache
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\obj\Debug\Games.vbproj.GenerateResource.cache
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\obj\Debug\Games.vbproj.CoreCompileInputs.cache
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\obj\Debug\_Games.Form1.resources
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\obj\Debug\_Games.Form2.resources
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\obj\Debug\_Games.Resources.resources
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\bin\Debug\Games.exe.config
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\bin\Debug\Games.exe
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\bin\Debug\Games.pdb
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\bin\Debug\Games.xml
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\obj\Debug\Games.exe
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\obj\Debug\Games.xml
+F:\WorkSpace\VB_workspace\MinHalf\2MinHalf\obj\Debug\Games.pdb
